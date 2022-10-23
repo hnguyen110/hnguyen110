@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hien Nguyen</h1>
-<h3 align="center">Full-Stack Developer</h3>
+
+<p>Full-stack software developer with strong skills in database design, and web development using React.js, JavaScript, TypeScript, C#, .Net, Python, Django, SQL Server and PostgreSQL. High proficiency in software testing, TDD, application optimization, CI/CD and working with AWS, Azure for provisioning application infrastructure. Have experience building large scale systems with AWS. Some highlights of what I have done include building a streaming service in Python, .Net, and S3 to stream media contents on-demand and serve an average of 10,000 RPS with zero downtime. A team player, familiar with Agile methodologies to deliver products under time constraints.
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hnguyen110&label=Profile%20views&color=0e75b6&style=flat" alt="hnguyen110" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/hnguyen110](https://github.com/hnguyen110)
 
-- 📫 How to reach me **hnguyen110.akc@gmail.com**
+- 📫 How to reach me hnguyen110.akc@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
