@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hien Nguyen</h1>
 
-<p>AWS Full stack developer experienced in building a full stack web application using C#, .Net, Python, API Development, Node.js for the back-end and HTML/ CSS, JavaScript, XML, and React for the front-end. Strong knowledge of RDBMS including PostgreSQL, Oracle and MongoDB and using their ORMs in .Net and Django. Good hands-on experience with DevOps practices and CI/CD using GitHub Actions, CodePipeline, and Docker to test, build and deliver web applications to cloud services providers like AWS and Azure. Comfortable constructing applications in a test-driven environment following clean code and DevOps best practices to make complex front-end and back-end environments and deliver an accessible, clean, and interactive user experience. Experienced with Agile frameworks, like Scrum or Kanban.
-</p>
+<p>Full-stack software developer with two years of experience building front-end applications using React.js and JavaScript and back-end applications using Python, C#, Django and .Net technologies. Have one year of experience with unit testing, integration testing and stress testing using NUnit, Jest, and Pytest. AWS-certified developer with in-depth knowledge of cloud infrastructure automation, implementing security to monitor and protect against DDOS attacks, common web exploits reported by OWASP and applying different system architectures that are highly available, reliable and affordable that meet the business requirements.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hnguyen110&label=Profile%20views&color=0e75b6&style=flat" alt="hnguyen110" /> </p>
 
